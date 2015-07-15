@@ -31,14 +31,6 @@ end
 4. Display the starting and converted values in the console.
   * **NOTE:** You should only be displaying three values each time the program is run.
 
-1. Set the `fahrenheit` variable to a starting temperature.
-2. Below that, write Javascript code that converts `fahrenheit` to its equivalent Celsius and Kelvin values.
-  - Conversion formulae: [http://www.csgnetwork.com/temp2conv.html](http://www.csgnetwork.com/temp2conv.html)
-  - Sample temperatures: 32F = 0C = 273.15K
-3. Below that, `console.log` the starting and converted temperatures.
-4. Repeat steps 1-3 for starting `celsius` and `kelvin` temperatures.
-5. Test your program by running `$ node temp_converter.js` in the command line.
-
 Feel free to turn to your tablemates for help!  
 
 ### Bonus 1
