@@ -12,8 +12,8 @@ Goal: create a program that can convert a temperature in Fahrenheit, Celsius or 
 
 ### Instructions
 
-1. Ask the user for (1) a starting temperature value and (2) temperature unit (e.g., F, C, K). Store each of those in a variable.
-2. Create an if-elsif-else statement that contains a block for each unit of temperature. It will look something like this...
+* Ask the user for (1) a starting temperature value and (2) temperature unit (e.g., F, C, K). Store each of those in a variable.
+* Create an if-elsif-else statement that contains a block for each unit of temperature. It will look something like this...
 
 ```ruby
 if temp_unit = "F"
@@ -25,10 +25,10 @@ else
 end
 ```
 
-3. Each conditional block should convert the starting temperature to its equivalent value in the other two units (e.g., F should be converted to C and K).
+* Each conditional block should convert the starting temperature to its equivalent value in the other two units (e.g., F should be converted to C and K).
   * Conversion formulae: [http://www.csgnetwork.com/temp2conv.html](http://www.csgnetwork.com/temp2conv.html)
   * Sample temperatures: 32F = 0C = 273.15K
-4. Display the starting and converted values in the console.
+* Display the starting and converted values in the console.
   * **NOTE:** You should only be displaying three values each time the program is run.
 
 Feel free to turn to your tablemates for help!  
