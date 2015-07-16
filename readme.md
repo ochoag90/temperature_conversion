@@ -33,6 +33,8 @@ to Fahrenheit: ...
 to Celsius: ...
 ```
 
+Feel free to turn to your tablemates for help!  
+
 ## PART 2
 
 ### Instructions
@@ -54,7 +56,14 @@ end
   * Conversion formulae: [http://www.csgnetwork.com/temp2conv.html](http://www.csgnetwork.com/temp2conv.html)
   * Sample temperatures: 32F = 0C = 273.15K
 * Display the starting and converted values in the console.
-  * **NOTE:** You should only be displaying three values each time the program is run.
+  * **NOTE:** You should only be displaying the starting and converted values for the temperature the user selected at the beginning.
+
+  ```ruby
+  # User selected "F" at the start of the program. So the output is...
+  Fahrenheit: ...
+  to Celsius: ...
+  to Kelvin: ...
+  ```
 
 Feel free to turn to your tablemates for help!  
 
