@@ -55,10 +55,6 @@ Store the starting and converted temperatures in a hash. When you print those va
 
 ### Bonus 2
 
-Encapsulate the program's conversion logic in a method(s) (or in Javascript terms, functions).
-
-### Bonus 3
-
 Keep the program running until the user decides to quit.
 * **HINT:** Requires a `while` loop.
 * When the program starts, the user should be prompted to enter a temperature OR quit the program.
