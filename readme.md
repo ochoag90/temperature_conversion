@@ -6,9 +6,14 @@ Goal: create a program that can convert a temperature in Fahrenheit, Celsius or 
 ## Setup
 
 * Fork and clone this repo to your computer.
-* Open `temp_converter.rb`.
+* Write your code in  `temp_converter.rb`.
+* Test your code by running the following the terminal...
 
-### Instructions
+```bash
+$ ruby temp_converter.rb
+```
+
+## Instructions
 
 Ask the user for two inputs and store them in their own variables...  
   1. A starting temperature value  
